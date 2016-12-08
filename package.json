@@ -1,5 +1,5 @@
 {
-  "name": "telegram-tl-node",
+  "name": "@goodmind/telegram-tl-node",
   "version": "0.11.5",
   "description": "Telegram TypeLanguage library",
   "keywords": [
@@ -10,13 +10,13 @@
     "library"
   ],
   "author": "Enrico Stara <enrico.stara@gmail.com>",
-  "homepage": "https://github.com/enricostara/telegram-tl-node",
+  "homepage": "https://github.com/goodmind/telegram-tl-node",
   "repository": {
     "type": "git",
-    "url": "git://github.com/enricostara/telegram-tl-node.git"
+    "url": "git://github.com/goodmind/telegram-tl-node.git"
   },
   "bugs": {
-    "url": "https://github.com/enricostara/telegram-tl-node/issues"
+    "url": "https://github.com/goodmind/telegram-tl-node/issues"
   },
   "license": "MIT",
   "dependencies": {
