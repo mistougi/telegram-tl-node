@@ -1,4 +1,4 @@
-# telegram-tl-node
+# @goodmind/telegram-tl-node
 [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url]
 
 **Telegram TypeLanguage** (TL) unofficial library in pure **javascript** on the Node.js platform
@@ -20,7 +20,7 @@ in [JSON format](https://core.telegram.org/schema/mtproto-json) and dynamically 
 pure javascript.
 
 <img src="https://raw.githubusercontent.com/enricostara/telegram.link/master/telegram.link.png" 
-    width="20" /> [**telegram.link**](http://telegram.link)  main project depends by this library.
+    width="20" /> [**@goodmind/telegram.link**](http://github.com/goodmind/telegram.link)  main project depends by this library.
 
 ## Installation
 
