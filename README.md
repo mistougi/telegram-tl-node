@@ -25,7 +25,7 @@ pure javascript.
 ## Installation
 
 ```bash
-$ git clone --branch=master git://github.com/enricostara/telegram-tl-node.git
+$ git clone --branch=master git://github.com/goodmind/telegram-tl-node.git
 $ cd telegram-tl-node
 $ npm install
 ```
