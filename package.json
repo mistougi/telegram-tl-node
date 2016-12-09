@@ -2,6 +2,9 @@
   "name": "@goodmind/telegram-tl-node",
   "version": "0.11.5",
   "description": "Telegram TypeLanguage library",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "telegram",
     "tl",
