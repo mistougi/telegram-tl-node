@@ -24,8 +24,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "1.1.2",
-    "get-log": "latest",
-    "requirish": "latest",
+    "get-log": "^1.1.5",
     "jsbn": "0.0.0"
   },
   "devDependencies": {
@@ -38,6 +37,7 @@
     "mocha": "2.2.5",
     "mocha-better-spec-reporter": "1.1.2",
     "mocha-lcov-reporter": "0.0.2",
+    "requirish": "^0.3.0",
     "should": "7.0.2"
   },
   "main": "index",
