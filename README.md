@@ -47,11 +47,11 @@ enabling public-key crypto and other applications on desktop and mobile browsers
 
 The project is released under the [MIT License](./LICENSE) 
 
-[npm-url]: https://www.npmjs.org/package/telegram.link
-[npm-image]: https://badge.fury.io/js/telegram-tl-node.svg
+[npm-url]: https://www.npmjs.org/package/@goodmind/telegram-tl-node
+[npm-image]: https://badge.fury.io/js/%40goodmind%2Ftelegram-tl-node.svg
 
-[travis-url]: https://travis-ci.org/enricostara/telegram-tl-node
-[travis-image]: https://travis-ci.org/enricostara/telegram-tl-node.svg?branch=master
+[travis-url]: https://travis-ci.org/goodmind/telegram-tl-node
+[travis-image]: https://travis-ci.org/goodmind/telegram-tl-node.svg?branch=master
 
 [coverage-url]: https://coveralls.io/r/enricostara/telegram-tl-node?branch=master
 [coverage-image]: https://img.shields.io/coveralls/enricostara/telegram-tl-node.svg
