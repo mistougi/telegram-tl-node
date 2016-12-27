@@ -1,6 +1,6 @@
 {
   "name": "@goodmind/telegram-tl-node",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "description": "Telegram TypeLanguage library",
   "publishConfig": {
     "access": "public"
