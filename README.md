@@ -1,4 +1,9 @@
-# @goodmind/telegram-tl-node
+# Deprecation Notice
+**Don’t use this for new projects.**  
+**[telegram-mtproto](https://github.com/zerobias/telegram-mtproto) is much more advanced and has a better API.**
+
+<s>@goodmind/telegram-tl-node</s>
+=================================
 [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url]
 
 **Telegram TypeLanguage** (TL) unofficial library in pure **javascript** on the Node.js platform
