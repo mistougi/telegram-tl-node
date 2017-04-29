@@ -1,4 +1,11 @@
-# telegram-tl-node
+# Deprecation Notice
+**Don’t use this for new projects.**  
+**[telegram-mtproto](https://github.com/zerobias/telegram-mtproto) is much more advanced and has a better API.**
+
+**Also check [treact](https://github.com/goodmind/treact). My attempt to write Telegram client in React.js**
+
+<s>@goodmind/telegram-tl-node</s>
+=================================
 [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url]
 
 **Telegram TypeLanguage** (TL) unofficial library in pure **javascript** on the Node.js platform
@@ -20,12 +27,12 @@ in [JSON format](https://core.telegram.org/schema/mtproto-json) and dynamically 
 pure javascript.
 
 <img src="https://raw.githubusercontent.com/enricostara/telegram.link/master/telegram.link.png" 
-    width="20" /> [**telegram.link**](http://telegram.link)  main project depends by this library.
+    width="20" /> [**@goodmind/telegram.link**](http://github.com/goodmind/telegram.link)  main project depends by this library.
 
 ## Installation
 
 ```bash
-$ git clone --branch=master git://github.com/enricostara/telegram-tl-node.git
+$ git clone --branch=master git://github.com/goodmind/telegram-tl-node.git
 $ cd telegram-tl-node
 $ npm install
 ```
@@ -47,11 +54,11 @@ enabling public-key crypto and other applications on desktop and mobile browsers
 
 The project is released under the [MIT License](./LICENSE) 
 
-[npm-url]: https://www.npmjs.org/package/telegram.link
-[npm-image]: https://badge.fury.io/js/telegram-tl-node.svg
+[npm-url]: https://www.npmjs.org/package/@goodmind/telegram-tl-node
+[npm-image]: https://badge.fury.io/js/%40goodmind%2Ftelegram-tl-node.svg
 
-[travis-url]: https://travis-ci.org/enricostara/telegram-tl-node
-[travis-image]: https://travis-ci.org/enricostara/telegram-tl-node.svg?branch=master
+[travis-url]: https://travis-ci.org/goodmind/telegram-tl-node
+[travis-image]: https://travis-ci.org/goodmind/telegram-tl-node.svg?branch=master
 
 [coverage-url]: https://coveralls.io/r/enricostara/telegram-tl-node?branch=master
 [coverage-image]: https://img.shields.io/coveralls/enricostara/telegram-tl-node.svg

@@ -1,7 +1,10 @@
 {
-  "name": "telegram-tl-node",
-  "version": "0.11.5",
+  "name": "@goodmind/telegram-tl-node",
+  "version": "0.12.6",
   "description": "Telegram TypeLanguage library",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "telegram",
     "tl",
@@ -10,19 +13,18 @@
     "library"
   ],
   "author": "Enrico Stara <enrico.stara@gmail.com>",
-  "homepage": "https://github.com/enricostara/telegram-tl-node",
+  "homepage": "https://github.com/goodmind/telegram-tl-node",
   "repository": {
     "type": "git",
-    "url": "git://github.com/enricostara/telegram-tl-node.git"
+    "url": "git://github.com/goodmind/telegram-tl-node.git"
   },
   "bugs": {
-    "url": "https://github.com/enricostara/telegram-tl-node/issues"
+    "url": "https://github.com/goodmind/telegram-tl-node/issues"
   },
   "license": "MIT",
   "dependencies": {
     "colors": "1.1.2",
-    "get-log": "latest",
-    "requirish": "latest",
+    "get-log": "^1.1.5",
     "jsbn": "0.0.0"
   },
   "devDependencies": {
@@ -35,6 +37,7 @@
     "mocha": "2.2.5",
     "mocha-better-spec-reporter": "1.1.2",
     "mocha-lcov-reporter": "0.0.2",
+    "requirish": "^0.3.0",
     "should": "7.0.2"
   },
   "main": "index",
